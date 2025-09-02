@@ -9,6 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "languages" {
     "tabs": [
       {
         "tab": "Knowledge Base",
@@ -88,7 +89,8 @@
       ]
     }
   },
-  "logo": {
+    }
+    "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
