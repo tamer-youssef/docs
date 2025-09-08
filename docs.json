@@ -9,10 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "languages" {
     "tabs": [
       {
-        "tab": "Knowledge Base",
+        "tab": "Guides",
         "groups": [
           {
             "group": "Getting started",
@@ -89,8 +88,7 @@
       ]
     }
   },
-    }
-    "logo": {
+  "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
