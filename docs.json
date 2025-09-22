@@ -22,18 +22,15 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Products",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "add-products",
+              "send-products"
             ]
           },
           {
             "group": "Writing content",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
               "essentials/reusable-snippets"
             ]
           },
@@ -107,15 +104,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
