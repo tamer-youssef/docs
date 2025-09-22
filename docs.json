@@ -9,23 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-  "anchors": [
-        {
-          "anchor": "Getting Started",
-          "icon": "book-open-cover",
-          "pages": "products/add-products"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ],
     "tabs": [
       {
         "tab": "Guides",
@@ -33,15 +16,20 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart"
+              "introduction",
+              "getting-started",
+              "invite-your-team",
+              "connect-online-store"
+              
             ]
           },
           {
             "group": "Products",
             "pages": [
               "products/add-products",
-              "products/send-products"
+              "products/send-products",
+              "products/statuses",
+              "products/optimizing-inventory"
             ]
           }
         ]
