@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Flextock",
   "colors": {
-    "primary": "#1034a6",
+    "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -14,22 +14,110 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
             "pages": [
               "introduction",
               "getting-started",
               "invite-my-team",
-              "connect-my-online-store"
-              
+              "connect-my-online-store",
+              "getting-started/add-products",
+              "getting-started/send-inventory",
+              "getting-started/create-order"
             ]
           },
           {
-            "group": "Products",
+            "group": "Products (SKU Listings/Inventory/Send Inventory)",
             "pages": [
-              "products/add-products",
-              "products/send-products",
-              "products/understanding-statuses",
+              "products/add-my-products",
+              "products/add-my-products-manual",
+              "products/add-my-products-bulk",
+              "products/add-my-products-integration",
+              "products/send-my-products",
+              "products/understanding-inbound-statuses",
               "products/optimizing-inventory"
+            ]
+          },
+          {
+            "group": "Orders",
+            "pages": [
+              "orders/create-order",
+              "orders/create-return-order",
+              "orders/create-exchange-order",
+              "orders/edit-cancel-order",
+              "orders/understanding-statuses",
+              "orders/reduce-return-to-origin"
+            ]
+          },
+          {
+            "group": "Billing & Payments",
+            "pages": [
+              "billing/understanding-invoices",
+              "billing/wheres-my-payout"
+            ]
+          },
+          {
+            "group": "Analytics & Reports",
+            "pages": [
+              "analytics/action-center",
+              "analytics/downloading-reports"
+            ]
+          },
+          {
+            "group": "User Management",
+            "pages": [
+              "users/adding-team-member",
+              "users/managing-roles"
+            ]
+          },
+          {
+            "group": "Integrations",
+            "pages": [
+              "integrations/shopify",
+              "integrations/woocommerce",
+              "integrations/other"
+            ]
+          },
+          {
+            "group": "Glossary",
+            "pages": [
+              "glossary/logistics-terms",
+              "glossary/metrics"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "support/contact-support",
+              "support/raise-ticket",
+              "support/track-ticket"
+            ]
+          },
+          {
+            "group": "Release Notes / Changelog",
+            "pages": [
+              "release-notes/changelog"
+            ]
+          },
+          {
+            "group": "Legal",
+            "pages": [
+              "legal/terms-and-conditions",
+              "legal/lost-and-damaged",
+              "legal/business-license-tax-id",
+              "legal/restricted-businesses"
+            ]
+          },
+          {
+            "group": "Templates",
+            "pages": [
+              "templates/shipping-policy",
+              "templates/return-exchange"
+            ]
+          },
+          {
+            "group": "Feedback",
+            "pages": [
+              "feedback"
             ]
           }
         ]
