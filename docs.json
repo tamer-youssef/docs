@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Flextock",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#73f8a9",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -18,8 +18,8 @@
             "pages": [
               "introduction",
               "getting-started",
-              "invite-your-team",
-              "connect-online-store"
+              "invite-my-team",
+              "connect-my-online-store"
               
             ]
           },
@@ -28,7 +28,7 @@
             "pages": [
               "products/add-products",
               "products/send-products",
-              "products/statuses",
+              "products/understanding-statuses",
               "products/optimizing-inventory"
             ]
           }
@@ -50,7 +50,6 @@
   "contextual": {
     "options": [
       "copy",
-      "view",
       "chatgpt"
     ]
   }
