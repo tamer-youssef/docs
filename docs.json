@@ -9,6 +9,23 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+  "anchors": [
+        {
+          "anchor": "Getting Started",
+          "icon": "book-open-cover",
+          "pages": "products/add-products"
+        },
+        {
+          "anchor": "Community",
+          "href": "https://mintlify.com/community",
+          "icon": "slack"
+        },
+        {
+          "anchor": "Blog",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
+        }
+      ],
     "tabs": [
       {
         "tab": "Guides",
