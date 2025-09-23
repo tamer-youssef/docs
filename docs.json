@@ -25,14 +25,14 @@
           {
             "group": "Products",
             "pages": [
-              "products/add-my-products",
-              "products/send-my-products"
+              "products/add-products",
+              "products/send-products"
             ]
           },
           {
             "group": "Orders",
             "pages": [
-              "orders/create-order"
+              "orders/create-an-order"
             ]
           },
           {
@@ -44,7 +44,7 @@
           {
             "group": "User Management",
             "pages": [
-              "users/adding-team-member",
+              "users/add-a-team-member",
               "users/managing-roles"
             ]
           },
