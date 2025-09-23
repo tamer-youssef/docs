@@ -19,47 +19,26 @@
               "introduction",
               "getting-started",
               "invite-my-team",
-              "connect-my-online-store",
-              "getting-started/add-products",
-              "getting-started/send-inventory",
-              "getting-started/create-order"
+              "connect-my-online-store"
             ]
           },
           {
-            "group": "Products (SKU Listings/Inventory/Send Inventory)",
+            "group": "Products",
             "pages": [
               "products/add-my-products",
-              "products/add-my-products-manual",
-              "products/add-my-products-bulk",
-              "products/add-my-products-integration",
-              "products/send-my-products",
-              "products/understanding-inbound-statuses",
-              "products/optimizing-inventory"
+              "products/send-my-products"
             ]
           },
           {
             "group": "Orders",
             "pages": [
-              "orders/create-order",
-              "orders/create-return-order",
-              "orders/create-exchange-order",
-              "orders/edit-cancel-order",
-              "orders/understanding-statuses",
-              "orders/reduce-return-to-origin"
+              "orders/create-order"
             ]
           },
           {
             "group": "Billing & Payments",
             "pages": [
-              "billing/understanding-invoices",
-              "billing/wheres-my-payout"
-            ]
-          },
-          {
-            "group": "Analytics & Reports",
-            "pages": [
-              "analytics/action-center",
-              "analytics/downloading-reports"
+              "billing/understanding-invoices"
             ]
           },
           {
@@ -75,49 +54,6 @@
               "integrations/shopify",
               "integrations/woocommerce",
               "integrations/other"
-            ]
-          },
-          {
-            "group": "Glossary",
-            "pages": [
-              "glossary/logistics-terms",
-              "glossary/metrics"
-            ]
-          },
-          {
-            "group": "Support",
-            "pages": [
-              "support/contact-support",
-              "support/raise-ticket",
-              "support/track-ticket"
-            ]
-          },
-          {
-            "group": "Release Notes / Changelog",
-            "pages": [
-              "release-notes/changelog"
-            ]
-          },
-          {
-            "group": "Legal",
-            "pages": [
-              "legal/terms-and-conditions",
-              "legal/lost-and-damaged",
-              "legal/business-license-tax-id",
-              "legal/restricted-businesses"
-            ]
-          },
-          {
-            "group": "Templates",
-            "pages": [
-              "templates/shipping-policy",
-              "templates/return-exchange"
-            ]
-          },
-          {
-            "group": "Feedback",
-            "pages": [
-              "feedback"
             ]
           }
         ]
