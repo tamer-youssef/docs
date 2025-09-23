@@ -9,9 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
         "groups": [
           {
             "group": "Getting Started",
@@ -57,9 +54,7 @@
             ]
           }
         ]
-      }
-    ]
-  },
+      },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
