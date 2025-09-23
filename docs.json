@@ -52,6 +52,12 @@
               "integrations/woocommerce",
               "integrations/other"
             ]
+          },
+          {
+            "group": "Glossary",
+            "pages": [
+              "glossary/SKU"
+            ]
           }
         ]
       },
