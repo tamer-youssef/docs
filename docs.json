@@ -14,9 +14,7 @@
             "group": "Getting Started",
             "pages": [
               "introduction",
-              "getting-started",
-              "invite-my-team",
-              "connect-my-online-store"
+              "getting-started"
             ]
           },
           {
@@ -49,8 +47,7 @@
             "group": "Integrations",
             "pages": [
               "integrations/shopify",
-              "integrations/woocommerce",
-              "integrations/other"
+              "integrations/woocommerce"
             ]
           },
           {
@@ -62,8 +59,8 @@
         ]
       },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "primary": {
