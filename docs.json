@@ -62,13 +62,6 @@
     "light": "/logo/light.png",
     "dark": "/logo/dark.png"
   },
-  "navbar": {
-    "primary": {
-      "type": "button",
-      "label": "Portal",
-      "href": "https://merchant.flextock.com/login"
-    }
-  },
   "contextual": {
     "options": [
       "copy",
