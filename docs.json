@@ -35,14 +35,14 @@
           {
             "group": "Billing & Payments",
             "pages": [
-              "billing/understanding-invoices"
+              "billing/understand-invoices"
             ]
           },
           {
             "group": "User Management",
             "pages": [
               "users/add-a-team-member",
-              "users/managing-roles"
+              "users/manage-roles"
             ]
           },
           {
