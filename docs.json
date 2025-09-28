@@ -7,6 +7,14 @@
     "light": "#00FCA0",
     "dark": "#00FCA0"
   },
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
+  "logo": {
+    "light": "/logo.png",
+    "dark": "/logo.png"
+  },
   "favicon": "/favicon.svg",
   "navigation": {
         "groups": [
@@ -57,15 +65,5 @@
             ]
           }
         ]
-      },
-  "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.png"
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "chatgpt"
-    ]
-  }
+      }
 }
