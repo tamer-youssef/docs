@@ -1,3 +1,13 @@
-#topbar-cta-button {
-  color: #121212 !important;
+html[lang="ar"] {
+  direction: rtl;
+  text-align: right;
+}
+
+html[lang="ar"] body {
+  direction: rtl;
+}
+
+html[lang="ar"] .mdx-content {
+  direction: rtl;
+  text-align: right;
 }
