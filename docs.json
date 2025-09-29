@@ -17,6 +17,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "languages": [
+      {
+        "language": "en",
         "groups": [
           {
             "group": "Getting Started",
@@ -65,5 +68,58 @@
             ]
           }
         ]
+      },
+      {
+        "language": "ar",
+        "groups": [
+          {
+            "group": "البدء",
+            "pages": [
+              "ar/introduction",
+              "ar/getting-started"
+            ]
+          },
+          {
+            "group": "المنتجات",
+            "pages": [
+              "ar/products/add-products",
+              "ar/products/send-products"
+            ]
+          },
+          {
+            "group": "الطلبات",
+            "pages": [
+              "ar/orders/create-an-order"
+            ]
+          },
+          {
+            "group": "الفواتير والمدفوعات",
+            "pages": [
+              "ar/billing-and-payments/understanding-invoices"
+            ]
+          },
+          {
+            "group": "إدارة المستخدمين",
+            "pages": [
+              "ar/user-management/add-a-team-member",
+              "ar/user-management/manage-roles"
+            ]
+          },
+          {
+            "group": "التكاملات",
+            "pages": [
+              "ar/integrations/shopify",
+              "ar/integrations/woocommerce"
+            ]
+          },
+          {
+            "group": "المصطلحات",
+            "pages": [
+              "ar/glossary/SKU"
+            ]
+          }
+        ]
       }
+    ]
+  }
 }
