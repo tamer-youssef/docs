@@ -9,5 +9,16 @@ html[lang="ar"] body {
 
 html[lang="ar"] .mdx-content {
   direction: rtl;
-  text-align: right;
+  text-align: center;
+}
+
+html[lang="ar"] #content-area {
+  margin-right: 0;
+  margin-left: auto;
+}
+
+html[lang="ar"] #content-container {
+  text-align: center;
+  max-width: none;
+  margin: 0 auto;
 }
