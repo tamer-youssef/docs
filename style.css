@@ -1,0 +1,12 @@
+html[lang="ar"] {
+  direction: rtl;
+}
+
+html[lang="ar"] body {
+  direction: rtl;
+}
+
+html[lang="ar"] .mdx-content {
+  direction: rtl;
+  text-align: right;
+}
