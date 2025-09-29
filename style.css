@@ -1,8 +1,38 @@
-html[lang="ar"] body {
+html[lang="ar"] {
   direction: rtl;
 }
 
-html[lang="ar"] .mdx-header .mdx-content {
+html[lang="ar"] .mdx-content {
+  direction: rtl;
+  text-align: right;
+}
+
+html[lang="ar"] h1, html[lang="ar"] h2, html[lang="ar"] h3, html[lang="ar"] h4, html[lang="ar"] h5, html[lang="ar"] h6 {
+  direction: rtl;
+  text-align: right;
+}
+
+html[lang="ar"] p {
+  direction: rtl;
+  text-align: right;
+}
+
+html[lang="ar"] ul, html[lang="ar"] ol {
+  direction: rtl;
+  text-align: right;
+}
+
+html[lang="ar"] nav {
+  direction: rtl;
+  text-align: right;
+}
+
+html[lang="ar"] .sidebar {
+  direction: rtl;
+  text-align: right;
+}
+
+html[lang="ar"] .navigation {
   direction: rtl;
   text-align: right;
 }
