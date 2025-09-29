@@ -13,13 +13,7 @@ html[lang="ar"] .mintlify-markdown {
   text-align: right;
 }
 
-html[lang="ar"] .mintlify-markdown ul,
-html[lang="ar"] .mintlify-markdown ol {
-  padding-right: 1.5rem;
-  padding-left: 0;
-}
-
 html[lang="ar"] .mintlify-markdown pre {
-  direction: ltr;
-  text-align: left;
+  direction: rtl;
+  text-align: right;
 }
