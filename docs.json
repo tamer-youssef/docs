@@ -15,7 +15,7 @@
     "light": "/logo.png",
     "dark": "/logo.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.ico",
   "navigation": {
     "languages": [
       {
