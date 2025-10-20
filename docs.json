@@ -15,6 +15,11 @@
     "light": "/logo.png",
     "dark": "/logo.png"
   },
+  "integrations": {
+    "mixpanel": {
+        "projectToken": "a9b3a9246156db2af7c03b384cc313bb"
+    }
+  },
   "favicon": "/favicon.ico",
   "navigation": {
     "languages": [
